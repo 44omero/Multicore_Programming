@@ -39,8 +39,8 @@ Run the program using the following syntax:
    ```bash
   ./program_name <input_file> <number_of_threads> 
 ```
-<input_file>: Path to the input data file.
-<number_of_threads>: Number of threads to use for execution.
+-<input_file>: Path to the input data file.
+-<number_of_threads>: Number of threads to use for execution.
 
 Example
 ```bash
