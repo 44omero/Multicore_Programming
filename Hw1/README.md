@@ -91,3 +91,6 @@ Input and output images for testing are provided in the repository. Use these im
 
 - Ensure to comment on the modifications in `sobel_par.c` for clarity.
 - Follow the guidelines provided in `hw1.pdf` for detailed analysis and reporting.
+
+## License
+This repository is intended for educational purposes and may not be used for commercial applications.
