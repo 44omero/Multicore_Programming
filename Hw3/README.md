@@ -69,6 +69,9 @@ The detailed results and explanations for each question are included in `hw3_ome
 
 ## Author
 - **Ömer Öztürk**
+
+## License
+This repository is intended for educational purposes and may not be used for commercial applications.
 - **Student ID**: S046798
 
 ## License
