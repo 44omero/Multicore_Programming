@@ -1,4 +1,4 @@
-# Homework 2: Multicore Programming
+# Multicore Programming - Homework 2
 
 ## Overview
 This repository contains the code and resources for Homework 2 of the CS 435/535 course on Multicore Programming. The assignment focuses on the implementation and analysis of concurrent access to a linked list using custom read-write locks.
