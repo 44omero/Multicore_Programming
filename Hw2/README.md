@@ -52,8 +52,10 @@ The performance analysis results are reported based on execution time comparison
 - POSIX Threads Library (pthreads)
 
 ## Author
-Ömero
+Ömer Öztürk
 
 ## Notes
 Ensure all dependencies are correctly installed and the system supports POSIX threads for proper functionality.
 
+## License
+This repository is intended for educational purposes and may not be used for commercial applications.
