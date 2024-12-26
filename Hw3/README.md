@@ -1,4 +1,4 @@
-# Multicore Programming Homework 3
+# Multicore Programming - Homework 3
 
 This repository contains the solutions and code files for Homework 3 of the Multicore Programming course (CS 435/535, Fall 2024). The homework focuses on concepts like loop-carried data dependencies, critical sections, OpenMP parallelization directives, and scheduling policies in multicore programming.
 
