@@ -1,7 +1,3 @@
-Here’s a sample README file for your GitHub repository based on the provided files:
-
----
-
 # Multicore Programming - Homework 1
 
 This repository contains the solution for Homework 1 of the **CS 435/535 – Fall 2024** course, focused on multicore programming concepts. The main objective of this project is to implement and analyze serial and parallel versions of the Sobel filter algorithm.
@@ -95,11 +91,3 @@ Input and output images for testing are provided in the repository. Use these im
 
 - Ensure to comment on the modifications in `sobel_par.c` for clarity.
 - Follow the guidelines provided in `hw1.pdf` for detailed analysis and reporting.
-
-## License
-
-This repository is intended for educational purposes only and may not be used for commercial purposes.
-
---- 
-
-Feel free to adapt it further based on specific details or additional content you'd like to include!
