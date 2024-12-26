@@ -68,11 +68,7 @@ The detailed results and explanations for each question are included in `hw3_ome
 - **Libraries**: Ensure OpenMP is enabled (use the `-fopenmp` flag during compilation).
 
 ## Author
-- **Ömer Öztürk**
-
-## License
-This repository is intended for educational purposes and may not be used for commercial applications.
-- **Student ID**: S046798
+Ömer Öztürk
 
 ## License
 This repository is intended for educational purposes and is not licensed for commercial use.
