@@ -1,6 +1,3 @@
-Here’s the corrected and well-formatted README file:
-
-```markdown
 # Homework 2: Parallel Mandelbrot Set Computation
 
 This project is part of the **Multicore Programming** course and focuses on parallelizing the computation of the Mandelbrot set using Pthreads, OpenMP, and MPI.
@@ -75,6 +72,4 @@ mpirun -np 4 ./mandelbrot_mpi output.png 1000 -2.0 1.0 -1.5 1.5 1920 1080
 - `-2.0 1.0`: Real axis range.
 - `-1.5 1.5`: Imaginary axis range.
 - `1920 1080`: Image width and height in pixels.
-
-```
 
